@@ -33,7 +33,7 @@ Includes:
 - High-risk transactions
 - Prediction confidence breakdown
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 `Python`, `pandas`, `XGBoost`, `scikit-learn`, `matplotlib`, `seaborn`, `Power BI`
 
 ---
